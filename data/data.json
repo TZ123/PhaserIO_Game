@@ -1,0 +1,40 @@
+{
+	"platforms": [
+		{"image": "ground", "x": 0, "y": 595},
+		{"image": "2x1_block", "x": 0, "y": 549},
+		{"image": "1x1_dirt", "x": 310, "y": 549},
+		{"image": "1x1_grass", "x": 310, "y": 502},
+		{"image": "1x1_grass", "x": 410, "y": 360},
+		{"image": "4block", "x": 530, "y": 400},
+		{"image": "1.5x1_block", "x": 520, "y": 150},
+		{"image": "1.5x1_block", "x": 380, "y": 250},
+		{"image": "1.5x1_block", "x": 630, "y": 150},
+		{"image": "1.5x1_block", "x": 950, "y": 150},
+		{"image": "1.5x1_block", "x": 1090, "y": 350},
+		{"image": "1x1_dirt", "x": 700, "y": 246},
+		{"image": "1x1_grass", "x": 700, "y": 200},
+		{"image": "2x1_block", "x": 756, "y": 246}
+	],
+	"heros": [
+		{"image": "heros", "x": 100, "y": 549}
+	],
+	"coins": [
+		{"image": "coin:1", "x": 300, "y": 440},
+		{"image": "coin:2", "x": 450, "y": 500},
+		{"image": "coin:3", "x": 773, "y": 229},
+		{"image": "coin:3", "x": 630, "y": 120}
+	],
+	"badguys": [
+		{"image": "badguys", "x": 450, "y": 440},
+		{"image": "badguys", "x": 510, "y": 340},
+		{"image": "badguys", "x": 756, "y": 146}
+	],
+	"door":[
+		{"image": "door", "x": 200, "y": 500}
+	],
+	"key": [
+		{"image": "key", "x": 1200, "y": 350}
+	]
+	
+	
+}
